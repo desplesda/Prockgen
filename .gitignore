@@ -42,3 +42,7 @@ Temporary Items
 # Blender
 
 *.blend1
+
+# Virtualenv folder
+
+/venv/
